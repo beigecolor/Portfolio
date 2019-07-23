@@ -8,9 +8,7 @@ const footer = () => {
       <div className="social-links">
         <SocialIcon className="instagram" url="http://instagram.com" />
         <SocialIcon className="twitter" url="http://twitter.com" />
-        <a href="">
-          <i class="fa fa-facebook-square" aria-hidden="true" />
-        </a>
+        <SocialIcon className="facebook" url="http://facebook.com" />
       </div>
       <div className="footerdiv">
         <input type="text" placeholder="Email Address" />
