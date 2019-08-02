@@ -4,5 +4,6 @@ Header
 .vertical-center {
   background-image: url("./4-nature-wallpaper-sky.jpg");
   background-attachment: fixed;
+  background-size: cover;
   height: 100vh;
 }
