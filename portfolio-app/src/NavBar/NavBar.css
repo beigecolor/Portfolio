@@ -5,6 +5,7 @@ nav {
   right: 0;
   background-color: white;
   z-index: 100;
+  padding: 15px 0px 0px 0px;
 }
 
 nav li {
