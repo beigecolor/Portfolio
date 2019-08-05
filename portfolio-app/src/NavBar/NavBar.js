@@ -15,6 +15,9 @@ const navbar = () => {
           <a href="index.html#gallery">Sign up</a>
         </li>
         <li>
+          <a href="index.html#lgallery">Gallery</a>
+        </li>
+        <li>
           <a href="index.html#login">Login</a>
         </li>
         <li>
