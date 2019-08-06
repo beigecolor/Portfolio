@@ -11,8 +11,8 @@ const gallery = () => {
   return (
     <section id="gallery">
       <div class="wrap">
-        <h2>Issue Twenty</h2>
-        <h3>A visual guide to the Southwest</h3>
+        <h2>Pick your Passion</h2>
+        <h3>A visual guide to your lifestyle</h3>
         <div class="masonry">
           <img src={Gallery1} alt="" />
           <img src={Gallery3} alt="" />

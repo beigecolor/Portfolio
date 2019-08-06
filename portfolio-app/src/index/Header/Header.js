@@ -7,7 +7,7 @@ const header = () => {
       <header className="vertical-center">
         <div>
           <h1>
-            <a href="index.html">Page</a>
+            <a href="index.html">Revamped</a>
           </h1>
           <h2> Lifestyle Homepage</h2>
         </div>
